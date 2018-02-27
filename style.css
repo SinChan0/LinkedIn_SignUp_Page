@@ -1,0 +1,56 @@
+body {
+			background-color: #424242;
+			color : white;
+		}
+		div{
+			line-height: 1.6;
+			margin: auto;
+		}
+
+		p {
+			font-family: verdana;
+			font-size: 16px;
+		}
+		.box{
+			width:450px;
+			height:600px;
+			background: #263238;
+			align: center
+		}
+		.data{
+			font-size: 40px;
+		}
+		#textboxid1{
+			height:40px;
+			font-size:14pt;
+		}
+		#textboxid2{
+			height:40px;
+			font-size:14pt;
+		}
+		#textboxid3{
+			height:40px;
+			font-size:14pt;
+		}
+		#textboxid4{
+			height:40px;
+			font-size:14pt;
+		}
+		
+		button {
+			background-color: #1E88E5;
+			border: none;
+			color: white;
+			padding: 15px 150px;
+			text-align: center;
+			text-decoration: none;
+			display: inline-block;
+			font-size: 20px;
+			margin: 4px 2px;
+			cursor: pointer;
+		}
+		img {
+			width : 160px;
+			height : 50px; 
+			padding : 15px 15px;
+		}
